@@ -3,7 +3,7 @@ import mana
 
 
 class ManaTestCase(unittest.TestCase):
-    def test_decreaseMana(self):
+    def test_Decrease_Mana(self):
         # given
         expected = 22
         character = mana.create_character(30)
