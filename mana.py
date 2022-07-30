@@ -10,9 +10,9 @@ def create_character(mana_total):
     return CHARACTERS[character_id]
 
 
-def use_magic(character_id, magic_circle):
+def use_magic(character_id, spell_level):
     character = CHARACTERS[character_id]
-    character.mana -= magic_circle
+    character.mana -= spell_level
     return character.mana
 
 

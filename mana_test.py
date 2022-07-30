@@ -1,6 +1,7 @@
 import unittest
 
 import mana
+import spell
 
 
 class ManaTestCase(unittest.TestCase):
@@ -8,10 +9,24 @@ class ManaTestCase(unittest.TestCase):
         # given
         expected = 22
         character = mana.create_character(30)
-        magic_circle = 8
+        spell_slot = 8
 
         # when
-        result = mana.use_magic(character.character_id, magic_circle)
+        result = mana.use_magic(character.character_id, spell_slot)
+
+        # then
+        self.assertEqual(expected, result)
+
+    def test_Decrease_Mana_FireballAndSorcerer(self):
+        # given
+        expected = 37
+        character = mana.create_character(40)
+        spell_name = 'fireball'
+        character_class = 'sorcerer'
+
+        # when
+        spell_slot = spell.get_mana(spell_name=spell_name, dnd_class=character_class)
+        result = mana.use_magic(character.character_id, spell_slot)
 
         # then
         self.assertEqual(expected, result)
