@@ -8,7 +8,7 @@
     "Range": "Touch",
     "Components": "V,\nS,\nFiend",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Accelerated Movement",
@@ -19,7 +19,7 @@
     "Range": "Personal",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 swift action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Accelerated Movement",
@@ -30,7 +30,7 @@
     "Range": "Personal",
     "Components": "S,\nM,",
     "Casting Time": "1 swift action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Acid Orb, Lesser",
@@ -41,7 +41,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Acid Orb, Lesser",
@@ -52,7 +52,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Addiction",
@@ -63,7 +63,7 @@
     "Range": "Touch",
     "Components": "V,\nS,\nDrug",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Alarm",
@@ -74,7 +74,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,\nAF,\nDF,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Alustriel's Banner",
@@ -85,7 +85,7 @@
     "Range": "Long (400 ft. + 40 ft./level)",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Ancient Knowledge",
@@ -96,7 +96,7 @@
     "Range": "Personal",
     "Components": "V,\nS,\nF",
     "Casting Time": "1 minute",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Animate Rope",
@@ -107,7 +107,7 @@
     "Range": "Medium (100 ft. + 10 ft./level)",
     "Components": "V,\nS,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Appraising Touch",
@@ -118,7 +118,7 @@
     "Range": "Personal",
     "Components": "V,\nS,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Arcane Lock",
@@ -129,7 +129,7 @@
     "Range": "Touch",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Arcane Sensitivity",
@@ -140,7 +140,7 @@
     "Range": "Touch",
     "Components": "V,\nS,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Arcane Sight",
@@ -151,7 +151,7 @@
     "Range": "Personal",
     "Components": "V,\nS,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Armor Lock",
@@ -162,7 +162,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Arrow Mind",
@@ -173,7 +173,7 @@
     "Range": "Personal",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 immediate action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Arrow Mind",
@@ -184,7 +184,7 @@
     "Range": "Personal",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 immediate action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Augment Familiar",
@@ -195,7 +195,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Babau Slime",
@@ -206,7 +206,7 @@
     "Range": "Touch",
     "Components": "V,\nS,\nM,\nDF,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Backbiter",
@@ -217,7 +217,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,\nAF,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Backbiter",
@@ -228,7 +228,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,\nAF,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Balagarn's Iron Horn",
@@ -239,7 +239,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Beckon Person",
@@ -250,7 +250,7 @@
     "Range": "Medium (100 ft. + 10 ft./level)",
     "Components": "V,\nS,\nTN,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Benign Transposition",
@@ -261,7 +261,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Benign Transposition",
@@ -272,7 +272,7 @@
     "Range": "Medium (100 ft. + 10 ft./level)",
     "Components": "V,",
     "Casting Time": "1 Standard Action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Bestow Wound",
@@ -283,7 +283,7 @@
     "Range": "Touch",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Bestow Wound",
@@ -294,7 +294,7 @@
     "Range": "Touch",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Bigby's Helpful Hand",
@@ -305,7 +305,7 @@
     "Range": "0 ft.",
     "Components": "V,\nS,\nAF,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Bigby's Tripping Hand",
@@ -316,7 +316,7 @@
     "Range": "Medium (100 ft. + 10 ft./level)",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Black Bag",
@@ -327,7 +327,7 @@
     "Range": "Touch",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Blade of Blood",
@@ -338,7 +338,7 @@
     "Range": "Touch",
     "Components": "V,\nS,",
     "Casting Time": "1 swift action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Blade of Pain and Fear",
@@ -349,7 +349,7 @@
     "Range": "0 ft.",
     "Components": "V,\nS,\nDF,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Blades of Fire",
@@ -360,7 +360,7 @@
     "Range": "Touch",
     "Components": "V,",
     "Casting Time": "1 swift action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Blindness/Deafness",
@@ -371,7 +371,7 @@
     "Range": "Medium (100 ft. + 10 ft./level)",
     "Components": "V,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Blockade",
@@ -382,7 +382,7 @@
     "Range": "0 ft.",
     "Components": "V,\nS,\nM,",
     "Casting Time": "1 swift action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Blood Wind",
@@ -393,7 +393,7 @@
     "Range": "Close (25 ft. + 5 ft./2 caster levels)",
     "Components": "V,\nS,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Blood Wind",
@@ -404,7 +404,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,",
     "Casting Time": "1 Standard Action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Bonerattle",
@@ -415,7 +415,7 @@
     "Range": "Close (25 ft. + 5 ft./2 levels)",
     "Components": "V,\nS,\nM,\nDF,",
     "Casting Time": "1 action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Breath Flare",
@@ -426,7 +426,7 @@
     "Range": "Personal",
     "Components": "S,\nMB,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   },
   {
     "Spell name": "Bulwark of Reality",
@@ -437,6 +437,6 @@
     "Range": "Personal",
     "Components": "V,\nS,\nTN,",
     "Casting Time": "1 standard action",
-    "Wizard": 1
+    "Circle": 1
   }
 ]

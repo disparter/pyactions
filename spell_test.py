@@ -8,7 +8,7 @@ class SpellTestCase(unittest.TestCase):
     def test_Spell_Mana(self):
         # given
         SPELL_NAME = 'Aberrate'
-        DND_CLASS = 'Wizard'
+        DND_CLASS = 'wizard'
         EXPECTED = 1
 
         # when
@@ -21,7 +21,17 @@ class SpellTestCase(unittest.TestCase):
     def test_Invalid_Spell(self):
         # given
         SPELL_NAME = 'Super Spell'
-        DND_CLASS = 'Wizard'
+        DND_CLASS = 'wizard'
+
+        # when
+        with pytest.raises(Exception):
+            spell.get_mana(SPELL_NAME, DND_CLASS)
+
+    @pytest.mark.xfail(raises=Exception('File not found'))
+    def test_Invalid_DND_Class(self):
+        # given
+        SPELL_NAME = 'Super Spell'
+        DND_CLASS = 'Fighter'
 
         # when
         with pytest.raises(Exception):
