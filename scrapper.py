@@ -37,10 +37,16 @@ load_dotenv()
 webdriver_path = os.getenv('WEBDRIVER_PATH')
 driver = webdriver.Chrome(options=options, executable_path=webdriver_path)
 
-dnd_classes = ['wizard', 'sorcerer', 'cleric', 'paladin', 'ranger', 'bard', 'warlock']
-
-
 try:
+    base_url = f'https://dndtools.net/spells/'
+    sleep(0.1)
+    driver.get(base_url)
+    dnd_classes = []
+    dnd_classes_select = driver.find_element(By.ID, 'id_class_levels__slug')
+    dnd_classes_options = dnd_classes_select.find_elements(By.TAG_NAME, "option")
+    for dnd_class in dnd_classes_options[-1]:
+        dnd_classes.append(dnd_class.text)
+
     for dnd_class in dnd_classes:
         class_spells = []
         for spell_level in range(1, 10):
@@ -80,7 +86,3 @@ try:
             print(f'{dnd_class}.json was created')
 finally:
     driver.quit()
-
-
-
-
