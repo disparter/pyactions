@@ -8,6 +8,3 @@ def get_mana(spell_name, dnd_class):
             return spell[dnd_class]
 
     raise Exception("Spell not found")
-
-
-

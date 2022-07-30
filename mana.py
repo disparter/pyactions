@@ -21,5 +21,3 @@ class Character:
     mana: int
     mana_total: int
     character_id: uuid
-
-
