@@ -39,9 +39,10 @@ driver = webdriver.Chrome(options=options, executable_path=webdriver_path)
 
 dnd_classes = ['wizard', 'sorcerer', 'cleric', 'paladin', 'ranger', 'bard', 'warlock']
 
-for dnd_class in dnd_classes:
-    class_spells = []
-    try:
+
+try:
+    for dnd_class in dnd_classes:
+        class_spells = []
         for spell_level in range(1, 10):
             max_page = 1
             page = 1
@@ -77,8 +78,8 @@ for dnd_class in dnd_classes:
         with open(f'{dnd_class}.json', 'w') as f:
             f.write(str_spells)
             print(f'{dnd_class}.json was created')
-    finally:
-        driver.quit()
+finally:
+    driver.quit()
 
 
 
