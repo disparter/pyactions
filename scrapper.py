@@ -48,7 +48,7 @@ for dnd_class in dnd_classes:
             while page <= max_page:
                 try:
                     base_url = f'https://dndtools.net/spells/?page={page}&class_levels__slug={dnd_class}&spellclasslevel__level={spell_level}'
-                    sleep(0.2)
+                    sleep(0.1)
                     driver.get(base_url)
                     max_page = int(driver.find_elements(By.CLASS_NAME, 'page')[-1].text)
                     spells = driver.find_elements(By.TAG_NAME, 'tr')
