@@ -5,9 +5,9 @@ import spell
 class SpellTestCase(unittest.TestCase):
     def test_Spell_Mana(self):
         #given
-        SPELL_NAME = 'fireball'
-        DND_CLASS = 'wizard'
-        EXPECTED = 3
+        SPELL_NAME = 'Aberrate'
+        DND_CLASS = 'Wizard'
+        EXPECTED = 1
 
         #when
         result = spell.get_mana(SPELL_NAME, DND_CLASS)
