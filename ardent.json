@@ -1,1 +1,35 @@
-[{"spell_name": "Cure Critical Wounds", "casting_time": "", "spell_level": 3, "rulebook": "PH", "duration": "", "effect": "", "spell_range": "", "components": "", "spell_school": "Conjuration"}, {"spell_name": "Cure Critical Wounds", "casting_time": "", "spell_level": 4, "rulebook": "PH", "duration": "", "effect": "", "spell_range": "", "components": "", "spell_school": "Conjuration"}, {"spell_name": "Cure Critical Wounds", "casting_time": "", "spell_level": 5, "rulebook": "PH", "duration": "", "effect": "", "spell_range": "", "components": "", "spell_school": "Conjuration"}]
+[
+  {
+    "spell_name": "Cure Critical Wounds",
+    "casting_time": "",
+    "spell_level": 3,
+    "rulebook": "PH",
+    "duration": "",
+    "effect": "",
+    "spell_range": "",
+    "components": "",
+    "spell_school": "Conjuration"
+  },
+  {
+    "spell_name": "Cure Critical Wounds",
+    "casting_time": "",
+    "spell_level": 4,
+    "rulebook": "PH",
+    "duration": "",
+    "effect": "",
+    "spell_range": "",
+    "components": "",
+    "spell_school": "Conjuration"
+  },
+  {
+    "spell_name": "Cure Critical Wounds",
+    "casting_time": "",
+    "spell_level": 5,
+    "rulebook": "PH",
+    "duration": "",
+    "effect": "",
+    "spell_range": "",
+    "components": "",
+    "spell_school": "Conjuration"
+  }
+]
