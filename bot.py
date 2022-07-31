@@ -22,4 +22,14 @@ async def cast_spell(ctx, spell_name, character_name):
 
     await ctx.send(response)
 
+
+@bot.command(name='create_character', help='Create a character based on an unique name, based on')
+async def cast_spell(ctx, spell_name, character_name):
+    dnd_class = character.get_dnd_class(character_name)
+    character_id = character.get_character_id(character_name)
+    spell_slot = spell.get_mana(spell_name, dnd_class)
+    response = mana.get_current_mana_after_spell(character_id, spell_slot)
+
+    await ctx.send(response)
+
 bot.run(TOKEN)
