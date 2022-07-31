@@ -27,7 +27,7 @@ async def cast_spell(ctx, spell_name, character_name):
             await ctx.send(f'spell {spell_name} was not found in {user_character.dnd_class} spell list')
         else:
             response = mana.get_current_mana_after_spell(user_character, spell_slot)
-            await ctx.send(f'{user_character.character_name}  current mana points is {response}t')
+            await ctx.send(f'{user_character.character_name}  current mana points is {response}')
 
 
 @bot.command(name='create_character',
