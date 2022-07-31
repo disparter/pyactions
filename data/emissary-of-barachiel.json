@@ -1,0 +1,68 @@
+[
+  {
+    "spell_name": "Ray of Hope",
+    "casting_time": "1 standard action",
+    "spell_level": 1,
+    "rulebook": "BE",
+    "duration": "1 round/level",
+    "effect": "",
+    "spell_range": "Close (25 ft. + 5 ft./2 levels)",
+    "components": "V, S,",
+    "spell_school": "Enchantment"
+  },
+  {
+    "spell_name": "Elation",
+    "casting_time": "1 standard action",
+    "spell_level": 2,
+    "rulebook": "BE",
+    "duration": "1 round/level",
+    "effect": "",
+    "spell_range": "80 ft.",
+    "components": "V, S,",
+    "spell_school": "Enchantment"
+  },
+  {
+    "spell_name": "Elation",
+    "casting_time": "1 standard action",
+    "spell_level": 3,
+    "rulebook": "BE",
+    "duration": "1 round/level",
+    "effect": "",
+    "spell_range": "80 ft.",
+    "components": "V, S,",
+    "spell_school": "Enchantment"
+  },
+  {
+    "spell_name": "Heaven's Trumpet",
+    "casting_time": "1 standard action",
+    "spell_level": 4,
+    "rulebook": "BE",
+    "duration": "Instantaneous",
+    "effect": "",
+    "spell_range": "120 ft.",
+    "components": "S, AF, Archon",
+    "spell_school": "Evocation"
+  },
+  {
+    "spell_name": "Heaven's Trumpet",
+    "casting_time": "1 standard action",
+    "spell_level": 6,
+    "rulebook": "BE",
+    "duration": "Instantaneous",
+    "effect": "",
+    "spell_range": "120 ft.",
+    "components": "S, AF, Archon",
+    "spell_school": "Evocation"
+  },
+  {
+    "spell_name": "Heaven's Trumpet",
+    "casting_time": "1 standard action",
+    "spell_level": 7,
+    "rulebook": "BE",
+    "duration": "Instantaneous",
+    "effect": "",
+    "spell_range": "120 ft.",
+    "components": "S, AF, Archon",
+    "spell_school": "Evocation"
+  }
+]
