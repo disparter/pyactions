@@ -1,1 +1,156 @@
-[{"spell_name": "Stick", "casting_time": "1 standard action", "spell_level": 1, "rulebook": "Und", "duration": "Instantaneous", "effect": "", "spell_range": "Touch", "components": "V, S, M,", "spell_school": "Transmutation"}, {"spell_name": "Burrow", "casting_time": "1 standard action", "spell_level": 2, "rulebook": "Und", "duration": "1 minute/level (D)", "effect": "", "spell_range": "Touch", "components": "V, S, AF, DF,", "spell_school": "Transmutation"}, {"spell_name": "Reflective Disguise", "casting_time": "1 standard action", "spell_level": 2, "rulebook": "Und", "duration": "10 minutes/level", "effect": "", "spell_range": "Personal", "components": "V, S,", "spell_school": "Illusion"}, {"spell_name": "Amorphous Form", "casting_time": "1 standard action", "spell_level": 3, "rulebook": "Und", "duration": "1 minute/level (D)", "effect": "", "spell_range": "Touch", "components": "S, M, DF,", "spell_school": "Transmutation"}, {"spell_name": "Burrow", "casting_time": "1 standard action", "spell_level": 3, "rulebook": "Und", "duration": "1 minute/level (D)", "effect": "", "spell_range": "Touch", "components": "V, S, AF, DF,", "spell_school": "Transmutation"}, {"spell_name": "Deeper Darkvision", "casting_time": "1 standard action", "spell_level": 3, "rulebook": "Und", "duration": "1 hour/level", "effect": "", "spell_range": "Touch", "components": "V, S, M,", "spell_school": "Transmutation"}, {"spell_name": "Burrow, Mass", "casting_time": "None", "spell_level": 4, "rulebook": "Und", "duration": "None", "effect": "", "spell_range": "None", "components": "", "spell_school": "Transmutation"}, {"spell_name": "Darkvision, Mass", "casting_time": "None", "spell_level": 4, "rulebook": "Und", "duration": "None", "effect": "", "spell_range": "None", "components": "", "spell_school": "Transmutation"}, {"spell_name": "Deeper Darkvision", "casting_time": "1 standard action", "spell_level": 4, "rulebook": "Und", "duration": "1 hour/level", "effect": "", "spell_range": "Touch", "components": "V, S, M,", "spell_school": "Transmutation"}, {"spell_name": "Reflective Disguise, Mass", "casting_time": "1 standard action", "spell_level": 4, "rulebook": "Und", "duration": "12 hours (D)", "effect": "", "spell_range": "Close (25 ft. + 5 ft./2 levels)", "components": "V, S,", "spell_school": "Illusion"}, {"spell_name": "Reflective Disguise, Mass", "casting_time": "1 standard action", "spell_level": 5, "rulebook": "Und", "duration": "12 hours (D)", "effect": "", "spell_range": "Close (25 ft. + 5 ft./2 levels)", "components": "V, S,", "spell_school": "Illusion"}, {"spell_name": "Burrow, Mass", "casting_time": "None", "spell_level": 6, "rulebook": "Und", "duration": "None", "effect": "", "spell_range": "None", "components": "", "spell_school": "Transmutation"}, {"spell_name": "Darkvision, Mass", "casting_time": "None", "spell_level": 6, "rulebook": "Und", "duration": "None", "effect": "", "spell_range": "None", "components": "", "spell_school": "Transmutation"}, {"spell_name": "Reflective Disguise, Mass", "casting_time": "1 standard action", "spell_level": 6, "rulebook": "Und", "duration": "12 hours (D)", "effect": "", "spell_range": "Close (25 ft. + 5 ft./2 levels)", "components": "V, S,", "spell_school": "Illusion"}]
+[
+  {
+    "spell_name": "Stick",
+    "casting_time": "1 standard action",
+    "spell_level": 1,
+    "rulebook": "Und",
+    "duration": "Instantaneous",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, M,",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Burrow",
+    "casting_time": "1 standard action",
+    "spell_level": 2,
+    "rulebook": "Und",
+    "duration": "1 minute/level (D)",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, AF, DF,",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Reflective Disguise",
+    "casting_time": "1 standard action",
+    "spell_level": 2,
+    "rulebook": "Und",
+    "duration": "10 minutes/level",
+    "effect": "",
+    "spell_range": "Personal",
+    "components": "V, S,",
+    "spell_school": "Illusion"
+  },
+  {
+    "spell_name": "Amorphous Form",
+    "casting_time": "1 standard action",
+    "spell_level": 3,
+    "rulebook": "Und",
+    "duration": "1 minute/level (D)",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "S, M, DF,",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Burrow",
+    "casting_time": "1 standard action",
+    "spell_level": 3,
+    "rulebook": "Und",
+    "duration": "1 minute/level (D)",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, AF, DF,",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Deeper Darkvision",
+    "casting_time": "1 standard action",
+    "spell_level": 3,
+    "rulebook": "Und",
+    "duration": "1 hour/level",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, M,",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Burrow, Mass",
+    "casting_time": "None",
+    "spell_level": 4,
+    "rulebook": "Und",
+    "duration": "None",
+    "effect": "",
+    "spell_range": "None",
+    "components": "",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Darkvision, Mass",
+    "casting_time": "None",
+    "spell_level": 4,
+    "rulebook": "Und",
+    "duration": "None",
+    "effect": "",
+    "spell_range": "None",
+    "components": "",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Deeper Darkvision",
+    "casting_time": "1 standard action",
+    "spell_level": 4,
+    "rulebook": "Und",
+    "duration": "1 hour/level",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, M,",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Reflective Disguise, Mass",
+    "casting_time": "1 standard action",
+    "spell_level": 4,
+    "rulebook": "Und",
+    "duration": "12 hours (D)",
+    "effect": "",
+    "spell_range": "Close (25 ft. + 5 ft./2 levels)",
+    "components": "V, S,",
+    "spell_school": "Illusion"
+  },
+  {
+    "spell_name": "Reflective Disguise, Mass",
+    "casting_time": "1 standard action",
+    "spell_level": 5,
+    "rulebook": "Und",
+    "duration": "12 hours (D)",
+    "effect": "",
+    "spell_range": "Close (25 ft. + 5 ft./2 levels)",
+    "components": "V, S,",
+    "spell_school": "Illusion"
+  },
+  {
+    "spell_name": "Burrow, Mass",
+    "casting_time": "None",
+    "spell_level": 6,
+    "rulebook": "Und",
+    "duration": "None",
+    "effect": "",
+    "spell_range": "None",
+    "components": "",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Darkvision, Mass",
+    "casting_time": "None",
+    "spell_level": 6,
+    "rulebook": "Und",
+    "duration": "None",
+    "effect": "",
+    "spell_range": "None",
+    "components": "",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Reflective Disguise, Mass",
+    "casting_time": "1 standard action",
+    "spell_level": 6,
+    "rulebook": "Und",
+    "duration": "12 hours (D)",
+    "effect": "",
+    "spell_range": "Close (25 ft. + 5 ft./2 levels)",
+    "components": "V, S,",
+    "spell_school": "Illusion"
+  }
+]
