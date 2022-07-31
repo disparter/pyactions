@@ -79,7 +79,7 @@ try:
                     continue
                 page = page + 1
         str_spells = Spell.schema().dumps(class_spells, many=True)
-        with open(f'{dnd_class}.json', 'w') as f:
+        with open(f'data/{dnd_class}.json', 'w') as f:
             f.write(str_spells)
             print(f'{dnd_class}.json was created')
 finally:
