@@ -1,0 +1,57 @@
+[
+  {
+    "spell_name": "Bonerattle",
+    "casting_time": "1 action",
+    "spell_level": 1,
+    "rulebook": "Gh",
+    "duration": "Instantaneous",
+    "effect": "",
+    "spell_range": "Close (25 ft. + 5 ft./2 levels)",
+    "components": "V, S, M, DF,",
+    "spell_school": "Evocation"
+  },
+  {
+    "spell_name": "Protection from Possession",
+    "casting_time": "1 action",
+    "spell_level": 1,
+    "rulebook": "Gh",
+    "duration": "10 minutes/level",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, M, DF,",
+    "spell_school": "Abjuration"
+  },
+  {
+    "spell_name": "Ghost Touch Armor",
+    "casting_time": "1 action",
+    "spell_level": 2,
+    "rulebook": "Gh",
+    "duration": "1 minute/level",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, M,",
+    "spell_school": "Transmutation"
+  },
+  {
+    "spell_name": "Shroud of Undeath",
+    "casting_time": "1 action",
+    "spell_level": 2,
+    "rulebook": "Gh",
+    "duration": "10 minutes/level (D)",
+    "effect": "",
+    "spell_range": "Personal",
+    "components": "V, S, M,",
+    "spell_school": "Necromancy"
+  },
+  {
+    "spell_name": "Forced Manifestation",
+    "casting_time": "1 action",
+    "spell_level": 3,
+    "rulebook": "Gh",
+    "duration": "1 round/level",
+    "effect": "",
+    "spell_range": "Medium (100 ft. + 10 ft./level)",
+    "components": "V, S,",
+    "spell_school": "Transmutation"
+  }
+]

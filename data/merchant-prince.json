@@ -1,0 +1,24 @@
+[
+  {
+    "spell_name": "Fool's Gold",
+    "casting_time": "1 round",
+    "spell_level": 2,
+    "rulebook": "PF",
+    "duration": "1 hour/level",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, M,",
+    "spell_school": "Illusion"
+  },
+  {
+    "spell_name": "Fool's Gold",
+    "casting_time": "1 round",
+    "spell_level": 3,
+    "rulebook": "PF",
+    "duration": "1 hour/level",
+    "effect": "",
+    "spell_range": "Touch",
+    "components": "V, S, M,",
+    "spell_school": "Illusion"
+  }
+]
