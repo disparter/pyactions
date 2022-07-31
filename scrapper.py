@@ -41,13 +41,11 @@ try:
     base_url = f'https://dndtools.net/spells/'
     sleep(0.1)
     driver.get(base_url)
-    dnd_classes = []
     dnd_classes_select = driver.find_element(By.ID, 'id_class_levels__slug')
-    dnd_classes_options = dnd_classes_select.find_elements(By.TAG_NAME, "option")
-    for dnd_class in dnd_classes_options[-1]:
-        dnd_classes.append(dnd_class.text)
+    dnd_classes = [x.get_attribute('value') for x in dnd_classes_select.find_elements(By.TAG_NAME, "option")][2:]
 
     for dnd_class in dnd_classes:
+        print(f'Scrapping spells for {dnd_class}')
         class_spells = []
         for spell_level in range(1, 10):
             max_page = 1
