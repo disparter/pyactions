@@ -3,3 +3,4 @@ uuid
 selenium
 python-dotenv
 dataclasses-json
+discord
